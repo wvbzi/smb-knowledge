@@ -1,0 +1,289 @@
+{
+  "id": "74184b2a-0b0c-4d6d-bc14-a8090e2f0a0d",
+  "sourceUrl": "https://moflo.ai/",
+  "scrapedAt": "2026-08-20T05:00:19.246Z",
+  "savedAt": "2026-08-20T05:02:01.192Z",
+  "status": "saved",
+  "companyName": "MoFlo",
+  "companyFoundation": {
+    "description": "MoFlo is an AI growth platform for small and local businesses that creates and manages marketing - social posts, email campaigns, blog articles, and review responses - through apps like MoSocial, MoMail, MoBlogs, and MoReviews.",
+    "website": "https://moflo.ai",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": null,
+    "legalEntityType": "Inc",
+    "employeeCount": null,
+    "mainAddress": "8020 W Sahara Ave Unit 240, Las Vegas, NV, 89117, US",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altCompanyNames": []
+  },
+  "positioning": {
+    "pitch": null,
+    "foundingStory": null
+  },
+  "marketAndCustomers": {
+    "targetBuyers": [
+      "Real Estate Companies",
+      "High Tech Companies",
+      "Trades & Services Companies",
+      "Franchises Companies",
+      "Professional Services Companies",
+      "Insurance Companies"
+    ],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [
+      "Real Estate",
+      "High Tech",
+      "Trades & Services",
+      "Franchises",
+      "Professional Services",
+      "Insurance"
+    ],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Direct Online Sales",
+      "Online / Website"
+    ],
+    "funnels": [],
+    "ctas": [
+      "Start for free",
+      "Learn More",
+      "Book a Demo"
+    ],
+    "suppliers": []
+  },
+  "brandingAndStyle": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "Poppins",
+      "Inter"
+    ],
+    "colors": [
+      "#fb3748",
+      "#d00416",
+      "#b7cbf8",
+      "#6e97f2",
+      "#ffffff"
+    ],
+    "logos": [
+      "https://framerusercontent.com/images/1jeR9lQLMKCw6d2Xmjx1jvreBo.png",
+      "https://framerusercontent.com/images/e6mNRTj7bfK6aonWyGMa1F7Olo4.png",
+      "https://framerusercontent.com/images/EPtVjpTyqpqDAWSlYsFsnOn4.png",
+      "https://framerusercontent.com/images/RuSy7w9YwJBNXjuus4nPqwTZWA.png"
+    ]
+  },
+  "onlinePresence": {
+    "linkedin": "https://www.linkedin.com/company/mofloai/",
+    "facebook": "https://www.facebook.com/people/MoFlo/61578564326471/",
+    "instagram": "https://www.instagram.com/mofloai/",
+    "twitter": "https://x.com/MoFloAI",
+    "youtube": "https://www.youtube.com/@MoFloAI",
+    "tiktok": "https://www.tiktok.com/@mofloai"
+  },
+  "keyPeople": [],
+  "offerings": [
+    {
+      "id": "84df027b-fbe6-47e2-bbb1-fda5604f8614",
+      "name": "MoSocial",
+      "category": "Products",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "6faccaf0-5aaf-46a4-9e3e-1a9ef80cb07e",
+      "name": "MoMail",
+      "category": "Products",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "45b42f42-90b8-456e-bb13-57c925763792",
+      "name": "MoReviews",
+      "category": "Products",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "64aced1f-35ee-4842-8df4-4727f9180c88",
+      "name": "MoLetters",
+      "category": "Labs",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "b1da1e7a-39e9-4671-afeb-4496da3b6133",
+      "name": "MoLeads",
+      "category": "Labs",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "83612ce4-5f6a-4661-bca5-2aeec053368b",
+      "name": "MoClicks",
+      "category": "Labs",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "caff1f2c-2ba1-4327-a263-165d7499ff0b",
+      "name": "MoQuotes",
+      "category": "Labs",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "fc0dbfca-86c0-4c48-9f8f-f72e6bd47cbc",
+      "name": "FloGen",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "39ba3f7b-ad6d-48bc-936b-e900c7138e29",
+      "name": "Brand Power",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "f1f731b8-64cb-4164-85b5-e4575495cde9",
+      "name": "Brand Health Audit",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "dab3b0ec-a7a9-410d-8b2f-615c13a1fc86",
+      "name": "Integrations",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "8c77ac47-37ee-4c7b-88d3-7adfb803ee6c",
+      "name": "Knowledge",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "4b47b5bd-8d94-44cc-af72-f32c1d91e124",
+      "name": "Personas",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "b0a504ae-64e2-4caa-ad16-d2f958119539",
+      "name": "Library",
+      "category": "Platform",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "b85dab9c-3b63-4cbb-abb2-c053688a0054",
+      "name": "Trades & Services",
+      "category": "Trades & Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "fa9cef9f-a715-48fa-aa7b-2618db354e0e",
+      "name": "Professional Services",
+      "category": "Professional Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "f5e26ad3-ed2a-4c34-be9c-0501b9172d95",
+      "name": "Pick the Product. See what gets created.",
+      "category": null,
+      "features": [],
+      "description": "Each MoFlo app turns one marketing channel into ready-to-publish work.",
+      "pricing": null
+    },
+    {
+      "id": "89827dc9-5aed-4f96-80da-a428306e1449",
+      "name": "Trades & Services Companies",
+      "category": null,
+      "features": [],
+      "description": "From HVAC to roofing, turn local demand into booked jobs with automated follow-ups, reviews, and always-on local presence.",
+      "pricing": null
+    }
+  ],
+  "faq": [
+    {
+      "question": "How fast can I be up and running?",
+      "answer": "We pride ourselves on providing customers with a rapid deployment to ensure you can start realizing the value asap. Our customers can expect to be fully up and running within a few minutes."
+    },
+    {
+      "question": "How much do MoFlo's solutions cost?",
+      "answer": "We price all of our solutions in our suite, based on an easy-to-manage monthly subscription (solutions start at $49/mo). This enables our customers to grow by adding additional solutions, as their business needs grow."
+    },
+    {
+      "question": "How do I pay for my MoFlo solutions?",
+      "answer": "MoFlo provides a paperless sign-up and billing process, with automated monthly billing for the customer’s chosen solutions."
+    },
+    {
+      "question": "Can MoFlo solutions work with the tools I already use?",
+      "answer": "Yes. MoFlo is designed to integrate seamlessly with the platforms small businesses rely on, including popular CRMs, email systems, and website platforms. If you need custom integrations, our team can build those for you."
+    },
+    {
+      "question": "Do I need technical expertise to use MoFlo?",
+      "answer": "Not at all. MoFlo was built for business owners and teams without a tech background. Our solutions are easy to use, and your dedicated onboarding specialist will guide you through setup."
+    },
+    {
+      "question": "What industries benefit most from MoFlo?",
+      "answer": "MoFlo works across many industries, but we’ve built tailored solutions for real estate, high tech, trades & services, franchises, insurance, and professional services."
+    },
+    {
+      "question": "Can I change or upgrade my plan later?",
+      "answer": "Absolutely. You can add, remove, or upgrade your solutions at any time. Many of our customers start with one solution and expand into a bundle as they grow."
+    },
+    {
+      "question": "What kind of support do I get with MoFlo?",
+      "answer": "Our premium clients are assigned a Client Success Manager, who provides personalized guidance. All customers also have access to email and phone support during business hours."
+    },
+    {
+      "question": "How secure is my data with MoFlo?",
+      "answer": "We take data security seriously. All customer data is encrypted and stored securely, and we follow industry best practices to protect your business information."
+    },
+    {
+      "question": "Does MoFlo work outside of the U.S.?",
+      "answer": "Yes. MoFlo can be used globally. Certain solutions, such as localized lead generation or MoLetters, may have region-specific availability, and we’ll confirm fit during onboarding."
+    },
+    {
+      "question": "Can multiple team members use MoFlo solutions?",
+      "answer": "Yes. MoFlo solutions can be accessed by multiple team members under the same account, making collaboration easy."
+    },
+    {
+      "question": "How often are MoFlo solutions updated?",
+      "answer": "We’re always improving. Our team regularly updates each solution with new features, optimizations, and improvements—all included in your subscription."
+    }
+  ],
+  "legal": {
+    "privacyPolicyUrl": "https://moflo.ai/help/privacy-policy",
+    "termsOfServiceUrl": "https://moflo.ai/help/terms-of-service"
+  }
+}

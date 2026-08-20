@@ -1,0 +1,143 @@
+{
+  "id": "c6efde26-6eeb-45da-8f5c-319e5dbae5f7",
+  "sourceUrl": "https://moflo.ai/",
+  "scrapedAt": "2026-08-20T04:12:34.693Z",
+  "savedAt": null,
+  "status": "draft",
+  "companyName": "MoFlo",
+  "companyFoundation": {
+    "description": "MoFlo is an AI growth platform for small and local businesses that creates and manages marketing - social posts, email campaigns, blog articles, and review responses - through apps like MoSocial, MoMail, MoBlogs, and MoReviews.",
+    "website": "https://moflo.ai",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": null,
+    "legalEntityType": "Inc",
+    "employeeCount": null,
+    "mainAddress": "8020 W Sahara Ave Unit 240, Las Vegas, NV, 89117, US",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altCompanyNames": []
+  },
+  "positioning": {
+    "pitch": "",
+    "foundingStory": null
+  },
+  "marketAndCustomers": {
+    "targetBuyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Online / Website"
+    ],
+    "funnels": [],
+    "ctas": [],
+    "suppliers": []
+  },
+  "brandingAndStyle": {
+    "writingStyle": "",
+    "artStyle": null,
+    "fonts": [],
+    "colors": [
+      "#ffffff"
+    ],
+    "logos": [
+      "https://framerusercontent.com/images/1jeR9lQLMKCw6d2Xmjx1jvreBo.png",
+      "https://framerusercontent.com/images/e6mNRTj7bfK6aonWyGMa1F7Olo4.png",
+      "https://framerusercontent.com/images/EPtVjpTyqpqDAWSlYsFsnOn4.png",
+      "https://framerusercontent.com/images/RuSy7w9YwJBNXjuus4nPqwTZWA.png"
+    ]
+  },
+  "onlinePresence": {
+    "linkedin": "https://www.linkedin.com/company/mofloai/",
+    "facebook": "https://www.facebook.com/people/MoFlo/61578564326471/",
+    "instagram": "https://www.instagram.com/mofloai/",
+    "twitter": "https://x.com/MoFloAI",
+    "youtube": "https://www.youtube.com/@MoFloAI",
+    "tiktok": "https://www.tiktok.com/@mofloai"
+  },
+  "keyPeople": [],
+  "offerings": [
+    {
+      "id": "d563caee-eb9b-4df1-866d-2bc2bd2a9cbc",
+      "name": "Pick the Product. See what gets created.",
+      "category": null,
+      "features": [],
+      "description": "Each MoFlo app turns one marketing channel into ready-to-publish work.",
+      "pricing": null
+    },
+    {
+      "id": "37aca670-b4c0-4a1b-8f15-b28457f919ca",
+      "name": "Professional Services",
+      "category": null,
+      "features": [],
+      "description": "Streamline client communications, attract qualified leads, and showcase expertise across channels—including where your clients already are.",
+      "pricing": null
+    },
+    {
+      "id": "c0789a62-5408-455b-86a6-7b750e10dd22",
+      "name": "Trades & Services Companies",
+      "category": null,
+      "features": [],
+      "description": "From HVAC to roofing, turn local demand into booked jobs with automated follow-ups, reviews, and always-on local presence.",
+      "pricing": null
+    }
+  ],
+  "faq": [
+    {
+      "question": "How fast can I be up and running?",
+      "answer": "We pride ourselves on providing customers with a rapid deployment to ensure you can start realizing the value asap. Our customers can expect to be fully up and running within a few minutes."
+    },
+    {
+      "question": "How much do MoFlo's solutions cost?",
+      "answer": "We price all of our solutions in our suite, based on an easy-to-manage monthly subscription (solutions start at $49/mo). This enables our customers to grow by adding additional solutions, as their business needs grow."
+    },
+    {
+      "question": "How do I pay for my MoFlo solutions?",
+      "answer": "MoFlo provides a paperless sign-up and billing process, with automated monthly billing for the customer’s chosen solutions."
+    },
+    {
+      "question": "Can MoFlo solutions work with the tools I already use?",
+      "answer": "Yes. MoFlo is designed to integrate seamlessly with the platforms small businesses rely on, including popular CRMs, email systems, and website platforms. If you need custom integrations, our team can build those for you."
+    },
+    {
+      "question": "Do I need technical expertise to use MoFlo?",
+      "answer": "Not at all. MoFlo was built for business owners and teams without a tech background. Our solutions are easy to use, and your dedicated onboarding specialist will guide you through setup."
+    },
+    {
+      "question": "What industries benefit most from MoFlo?",
+      "answer": "MoFlo works across many industries, but we’ve built tailored solutions for real estate, high tech, trades & services, franchises, insurance, and professional services."
+    },
+    {
+      "question": "Can I change or upgrade my plan later?",
+      "answer": "Absolutely. You can add, remove, or upgrade your solutions at any time. Many of our customers start with one solution and expand into a bundle as they grow."
+    },
+    {
+      "question": "What kind of support do I get with MoFlo?",
+      "answer": "Our premium clients are assigned a Client Success Manager, who provides personalized guidance. All customers also have access to email and phone support during business hours."
+    },
+    {
+      "question": "How secure is my data with MoFlo?",
+      "answer": "We take data security seriously. All customer data is encrypted and stored securely, and we follow industry best practices to protect your business information."
+    },
+    {
+      "question": "Does MoFlo work outside of the U.S.?",
+      "answer": "Yes. MoFlo can be used globally. Certain solutions, such as localized lead generation or MoLetters, may have region-specific availability, and we’ll confirm fit during onboarding."
+    },
+    {
+      "question": "Can multiple team members use MoFlo solutions?",
+      "answer": "Yes. MoFlo solutions can be accessed by multiple team members under the same account, making collaboration easy."
+    },
+    {
+      "question": "How often are MoFlo solutions updated?",
+      "answer": "We’re always improving. Our team regularly updates each solution with new features, optimizations, and improvements—all included in your subscription."
+    }
+  ],
+  "legal": {
+    "privacyPolicyUrl": "https://moflo.ai/help/privacy-policy",
+    "termsOfServiceUrl": "https://moflo.ai/help/terms-of-service"
+  }
+}

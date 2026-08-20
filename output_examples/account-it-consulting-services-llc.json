@@ -1,0 +1,122 @@
+{
+  "id": "fbeb1ab2-b014-44c7-b880-0adf9294988c",
+  "sourceUrl": "https://account-it.net/",
+  "scrapedAt": "2026-08-20T05:07:19.470Z",
+  "savedAt": null,
+  "status": "draft",
+  "companyName": "Account-it Consulting Services, LLC",
+  "companyFoundation": {
+    "description": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
+    "website": "https://account-it.net",
+    "industry": "Accounting Service",
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": 2026,
+    "legalEntityType": "LLC",
+    "employeeCount": null,
+    "mainAddress": "Boynton Beach, Florida, 33437",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altCompanyNames": []
+  },
+  "positioning": {
+    "pitch": "minimizing stress: Your top-rated tax partner!",
+    "foundingStory": null
+  },
+  "marketAndCustomers": {
+    "targetBuyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Direct Online Sales",
+      "Online / Website"
+    ],
+    "funnels": [],
+    "ctas": [
+      "Schedule Appointment",
+      "Get started"
+    ],
+    "suppliers": []
+  },
+  "brandingAndStyle": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "Inter",
+      "Roboto",
+      "Lato",
+      "Raleway",
+      "Nunito",
+      "Merriweather"
+    ],
+    "colors": [
+      "#2299dd",
+      "#898989",
+      "#1f2937",
+      "#2e2e2e"
+    ],
+    "logos": [
+      "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+      "https://cw3prd.s3.us-west-1.amazonaws.com/2334190/conversions/account-it-fav-favicon.png"
+    ]
+  },
+  "onlinePresence": {
+    "linkedin": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+    "facebook": "https://www.facebook.com/account.itconsulting/?ref=settings",
+    "instagram": null,
+    "twitter": null,
+    "youtube": null,
+    "tiktok": null
+  },
+  "keyPeople": [],
+  "offerings": [
+    {
+      "id": "875e1609-074a-4e70-89e7-6d8555531a65",
+      "name": "Tax Preparation & Planning",
+      "category": "Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "7aa65733-eb08-4e9d-beff-428238b40f08",
+      "name": "Payroll",
+      "category": "Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "ee7ef871-6b07-40bc-96f0-a6dda52f4bd6",
+      "name": "Accounting & Bookkeeping",
+      "category": "Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "89e7278a-1b22-407a-b1b0-8b75e6e1bcbe",
+      "name": "IRS Tax Problems",
+      "category": "Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    },
+    {
+      "id": "1238094f-a7f6-49af-83c4-0ba9c1b267e8",
+      "name": "QuickBooks",
+      "category": "Services",
+      "features": [],
+      "description": null,
+      "pricing": null
+    }
+  ],
+  "faq": [],
+  "legal": {
+    "privacyPolicyUrl": "https://account-it.net/firm-background/privacy-policy",
+    "termsOfServiceUrl": null
+  }
+}
