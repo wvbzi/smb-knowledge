@@ -1,0 +1,46 @@
+1. What approach did you take to scraping and structuring the knowledge base data?
+    Before establishing any scraping logic, I wanted to ensure any information from the requirements
+    and from what I believed was also necessary to extract were defined in TypeScript interfaces. All the
+    information for a singular business profile is nested into the KnowledgeBase type (in src/types/knowledge.ts).
+    For scraping, I realized a good chunk of basic information could be extracted from JSON-LD tags found in
+    the website <head>. I established it as the most reliable source for basic information. After that, the
+    next in order would be meta and og (OpenGraph) tags also found in the <head> which would be my fallback
+    for descriptions, titles, and logo assets. Then finally, the final run through the site was actually
+    going through the rest of the site content; semantic HTML tags, footer information, <a> elements and DOM for social and legal links.
+
+    Once those three steps are done (JSON-LD -> Meta Tags -> pure HTML), the KnowledgeBase object is merged together
+    using all information extracted from each step. For many fields, JSON-LD info is prioritized. If JSON-LD info
+    didn't extract a field, then meta tags are checked. Then finally any from the final extraction step. For addresses,
+    we count the completeness of each extracted node, the most complete address is chosen ("8020 W Sahara Ave Unit 240, Las Vegas, NV, 89117" over
+    "Las Vegas, NV"). Duplicates for list fields are removed and info extracted from all 3 steps are combined.
+
+2. What information beyond our current baseline did you choose to include, and why?
+    I chose to add two sections beyond the baseline:
+    - Frequently Asked Questions (faq[]): Extracted directly from Schema.org FAQPage nodes. FAQs provide 
+    direct answers for common customer concerns, pricing details, and operational rules, making them one of the best pieces of data
+    for training AI to generate accurate responses to customers.
+    - Legal & Compliance Links (legal.privacyPolicyUrl, legal.termsOfServiceUrl): Extracted by scanning footer link anchors. 
+    Marketing automation tools (especially email generators like MoMail) require valid privacy and terms links to ensure compliance with CAN-SPAM, GDPR, 
+    and platform advertising policies.
+
+
+3. How would your knowledge base design improve the outputs of MoSocial, MoMail, and MoBlogs specifically?
+    - MoSocial: By structuring brand assets (hex brand colors, logo URLs, brand voice description) alongside short CTAs and distinct offering feature lists, MoSocial can generate high-converting captions, relevant hashtags, and visual social cards perfectly aligned with the company's brand identity.
+    - MoMail: Having distinct fields for Target Buyers, Customer Needs, and Legal Compliance URLs allows MoMail to create targeted and personalized emails and onboarding campaigns that speak directly to customers needs while remaining fully compliant.
+    - MoBlogs: Detailed fields like Industry Groupings, Founding Story, Detailed Offerings, and FAQ entries allow for the creation of blogs with real stories and a space to address customer concerns.
+
+
+4. What would you improve or change about MoKnowledge if you had more time?
+    I wasn't able to integrate crawling logic for exploring additional site pages I found,
+    so I'd definitely put more time into designing some concurrency model for crawling subpages.
+    I'd also consider using a tool like Puppeteer or Playwright for sites like MoFlo's where
+    navigation dropdowns are injected with site interaction. Lastly, integrating an AI agent to
+    generate missing content or help with analyzing raw HTML would vastly improve knowledge base output.
+
+5. What was the most challenging part of this assignment?
+    Creating the general scraper posed a great challenge for me. Extracting basic company information was
+    easily done through parsing JSON-LD and meta tags, but when it came to actually scraping site
+    components for product/service information and more in-depth information, I struggled to wrap my head around
+    how to establish parsing rules. There is so much inconsistency across SMB websites and many sites also
+    use Javascript heavy frameworks that obfuscate selector names and hide elements from DOM, making it
+    harder to scrape a site with pure HTML.
